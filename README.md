@@ -10,16 +10,16 @@ This repository is related to a protocol submitted to a peer review journal (as 
 ```bash
 git clone https://github.com/phpuech/FindPeaks.git
 cd FindPeaks
-
+````
 2. Create a new conda environment:
 ```bash
 conda create -n findpeaks_env python=3.10
 conda activate findpeaks_env
-
+````
 3. Install required Python packages:
 ```bash
 pip install -r requirements.txt
-
+````
 4. Launch Jupyter Notebook:
 ```bash
 jupyter notebook
